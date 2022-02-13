@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpaceLogistics
-- 👀 I’m interested in Python, Data Science, Machine Learning, Logistics, and Space (orbit determination, simulations etc.)
-- 🌱 I’m currently learning Python and STK
+- 👀 I’m interested in Python, Data Science, Machine Learning, Logistics, Cybersecurity and Space.
+- 🌱 I’m currently learning Python and Kali Linux
 - 💞️ I’m looking to collaborate on Learning Python and growing on unique projects
 - 📫 How to reach me TBD
 
